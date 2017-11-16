@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1510857961 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1510857961
+  "/home/editorial/texmf/tex/hedraoptions.sty" 1510857866 3587 4921a4004769cd949b2610eb895fb728 ""
+  "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1479649810 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1479649815 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1479649815 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1479649818 1458 43ab4710dc82f3edeabecd0d099626b2 ""
+  "/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1479649818 7324 2310d1247db0114eb4726807c8837a0e ""
+  "/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1479649818 1226 01a89dfef361f60ae7df13cd2946bc16 ""
+  "/usr/share/texmf-dist/tex/latex/ifetex/ifetex.sty" 1479551488 1571 45d3cd316bdf45071542b57b1784c273 ""
+  "/usr/share/texmf-dist/tex/latex/memoir/mem12.clo" 1479649819 4116 d8a3f774f9f0af51a01fc9b9f04796ce ""
+  "/usr/share/texmf-dist/tex/latex/memoir/memoir.cls" 1479649819 403550 cf3b1268347cbf0206bbe925178c9579 ""
+  "/usr/share/texmf-dist/tex/latex/memoir/mempatch.sty" 1479649819 1325 61d651ec19190481219253f142256d58 ""
+  "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1479551488 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1479649825 31669 df537245012f3e5f05bdc55644b7a3df ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1492269824 3899106 641fc69b1a87c1790c922e9ee2310464 ""
+  "LIVRO.aux" 1510857641 8 a94a2480d3289e625eea47cd1b285758 ""
+  "LIVRO.tex" 1510857590 1054 ed27b0bdd9756e499ff9f0d4d490470f ""
+  (generated)
+  "LIVRO.log"
+  "LIVRO.pdf"

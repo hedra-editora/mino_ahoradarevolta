@@ -1,0 +1,4 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {part}{A Hora da Revolta}{7}
+\contentsfinish 

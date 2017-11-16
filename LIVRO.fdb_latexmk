@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1510858778 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1510858780
+["pdflatex"] 1510858873 "LIVRO.tex" "LIVRO.pdf" "LIVRO" 1510858875
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1510857866 10498 1389d2b92e500f1dca4cbacae732b7c6 ""
   "/home/editorial/texmf/tex/hedralogo.sty" 1492700151 1834 5722770399e04a19c50d022a19ea6723 ""
   "/home/editorial/texmf/tex/hedrastyles.sty" 1492700151 8864 1415f68b03c9b11306f4e19140afce23 ""
@@ -147,12 +147,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1479649825 31669 df537245012f3e5f05bdc55644b7a3df ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1492269824 3899106 641fc69b1a87c1790c922e9ee2310464 ""
   "AHORADAREVOLTA.tex" 1510858772 86874 3107739d73a9f75dd37d3f3137b6ab31 ""
-  "INPUTS.aux" 1510858779 1759 d50e17618edf8ffc7f74cadcc76fd3b6 ""
+  "INPUTS.aux" 1510858875 1759 d50e17618edf8ffc7f74cadcc76fd3b6 ""
   "INPUTS.tex" 1510857577 23 beb4c2e551b2563563c127ef6ed39eae ""
-  "LIVRO.aux" 1510858779 497 3c0fc8d1ecf530cbc00bcf9066c59205 ""
+  "LIVRO.aux" 1510858875 497 3c0fc8d1ecf530cbc00bcf9066c59205 ""
   "LIVRO.tex" 1510857590 1054 ed27b0bdd9756e499ff9f0d4d490470f ""
-  "LIVRO.toc" 1510858779 133 d3b87199de9e2daeb0da87a0c991edd8 ""
-  "PUBLICIDADE.aux" 1510858779 1703 ec7f20954ccd6c9c2f9260669188d170 ""
+  "LIVRO.toc" 1510858875 133 d3b87199de9e2daeb0da87a0c991edd8 ""
+  "PUBLICIDADE.aux" 1510858875 1703 ec7f20954ccd6c9c2f9260669188d170 ""
   "aparatos.sty" 1510857952 23581 aeb1a77073b8eac62c83963791c90e77 ""
   "fichatecnica.sty" 1510857551 367 72c49b3f33a18676e58d39c7b9461b97 ""
   "graficos.sty" 1510857952 4756 deedbbb89720d1be3516e04ea4116143 ""
@@ -161,9 +161,9 @@
   "tipografia.sty" 1510857952 9859 f06ffe5c85c5828660a90c61e735ed72 ""
   "toc.sty" 1510857952 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
-  "LIVRO.toc"
   "LIVRO.pdf"
-  "LIVRO.log"
-  "PUBLICIDADE.aux"
-  "LIVRO.aux"
   "INPUTS.aux"
+  "LIVRO.toc"
+  "LIVRO.log"
+  "LIVRO.aux"
+  "PUBLICIDADE.aux"

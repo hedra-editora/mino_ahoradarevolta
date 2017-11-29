@@ -1,4 +1,6 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {part}{A Hora da Revolta}{7}
+\contentsline {chapter}{E agora, Luis Inácio?\emph {, por{} Paulo Henrique Amorim}}{7}
+\contentsline {part}{A Hora da Revolta}{9}
+\contentsline {chapter}{Apresentação\emph {, por{} Mino Carta}}{11}
 \contentsfinish 

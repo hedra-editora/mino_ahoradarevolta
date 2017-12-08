@@ -1612,6 +1612,10 @@ Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 ]
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
+Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
+Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 40.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -1622,10 +1626,6 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) [3] [4
 
 ] (./LIVRO.toc
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
-Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
-Unknown feature `expansion=default' in font `Swift Neue LT Pro Regular'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `expansion=default' in font `Swift Neue LT Pro Italic'.
 Unknown feature `protrusion=default' in font `Swift Neue LT Pro Regular'.
@@ -1719,12 +1719,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26364 strings out of 493010
- 484246 string characters out of 6140133
+ 26363 strings out of 493010
+ 484235 string characters out of 6140133
  727169 words of memory out of 5000000
- 29857 multiletter control sequences out of 15000+600000
+ 29856 multiletter control sequences out of 15000+600000
  543096 words of font info for 109 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10388b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (84 pages, 1011192 bytes).
+Output written on LIVRO.xdv (84 pages, 1011488 bytes).

@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1511962094 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1511962095
-  "LIVRO.xdv" 1511962094 1011192 62429a18faab6aba3b71341cfbb22e3c "xelatex"
+["xdvipdfmx"] 1511962137 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1511962138
+  "LIVRO.xdv" 1511962137 1011488 9e0a63bdb6af7804ad016be736930a5f "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1511962087 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1511962095
+["xelatex"] 1511962130 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1511962138
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1509885092 10498 1389d2b92e500f1dca4cbacae732b7c6 ""
   "/home/editorial/texmf/tex/hedralogo.sty" 1492710435 1834 5722770399e04a19c50d022a19ea6723 ""
   "/home/editorial/texmf/tex/hedrastyles.sty" 1492710435 8864 1415f68b03c9b11306f4e19140afce23 ""
@@ -149,16 +149,16 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510396425 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510396494 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1511109328 4066330 76099d4a9276f527a61b6aae0515a814 ""
-  "INPUTS.aux" 1511962093 2132 6d8d58cc81523a67c1c1039477d857cc ""
+  "INPUTS.aux" 1511962137 2132 6d8d58cc81523a67c1c1039477d857cc ""
   "INPUTS.tex" 1511961995 56 b4991dd03775ce10caa8f77ea48b5d5c ""
   "INTROD.tex" 1511961995 1622 92ad22dc86a05e8291d20762b5a64be5 ""
-  "LIVRO.aux" 1511962094 497 a585f172569b2300cfe32412363ceb9a ""
+  "LIVRO.aux" 1511962137 497 a585f172569b2300cfe32412363ceb9a ""
   "LIVRO.tex" 1511961995 1059 6040fdbcc074c6444c51ff3b981bef5a ""
-  "LIVRO.toc" 1511962094 291 324fc04a97b051a93afe7e50a80f37ee ""
+  "LIVRO.toc" 1511962137 291 324fc04a97b051a93afe7e50a80f37ee ""
   "ORIGINAL.tex" 1511962029 84367 855d3a17099984d4a5ff7da9d79944ac ""
-  "PUBLICIDADE.aux" 1511962094 1736 eb373f5baa386d6977b5a5df0636e84c ""
+  "PUBLICIDADE.aux" 1511962137 1736 eb373f5baa386d6977b5a5df0636e84c ""
   "aparatos.sty" 1511959472 23581 aeb1a77073b8eac62c83963791c90e77 ""
-  "fichatecnica.sty" 1511962077 407 700b3d031c003f76a29d11270464bd98 ""
+  "fichatecnica.sty" 1511962129 407 629fbd755382da2081462920436f6e05 ""
   "graficos.sty" 1511959472 4756 deedbbb89720d1be3516e04ea4116143 ""
   "hedraextra.sty" 1511959472 6555 b98a89b7063bd655890959adb148747d ""
   "hedraoptions.sty" 1511959472 3612 90c10c03eba9d99333f661bc5b2a212a ""
@@ -166,8 +166,8 @@
   "toc.sty" 1511959472 3535 ba3315dd63503c85c868efae07b02015 ""
   (generated)
   "PUBLICIDADE.aux"
-  "LIVRO.xdv"
+  "INPUTS.aux"
   "LIVRO.toc"
   "LIVRO.aux"
+  "LIVRO.xdv"
   "LIVRO.log"
-  "INPUTS.aux"
